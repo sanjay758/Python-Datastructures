@@ -1,2 +1,2 @@
 # Python-Datastructures
-Problems Solving on Topic Heaps, Stacks, Queues ,LinkedList
+Problems Solving on Topic Heaps, Stacks, Queues ,LinkedList,recursion,bubble sort,binary_tree
